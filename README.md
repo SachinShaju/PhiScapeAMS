@@ -2,6 +2,31 @@
 
 A new Flutter project.
 
+Overview
+PhiScape AMS (Attendance Management System) is a comprehensive mobile application designed to streamline attendance tracking, leave management, and administrative tasks for organizations. The system provides separate interfaces for administrators and employees, allowing them to perform role-specific actions efficiently.
+Features
+Authentication and Authorization:
+  - Secure login for Admin and Employee roles.
+  - Role-based access control (RBAC) to ensure authorized actions.
+Admin Interface:
+  - Dashboard to manage employees, view attendance details, and handle leave applications.
+  - Real-time updates for leave application statuses.
+Employee Interface:
+  - User-friendly portal for punch-in/out, viewing attendance history, and submitting leave requests.
+  - Real-time status display of leave applications.
+Leave Management:
+  - Leave application system with status tracking (pending, approved, rejected).
+  - Admin workflow for reviewing and managing leave requests.
+Scalability and Extensibility:
+  - Designed for scalability to accommodate future growth.
+  - Encourages additional features and optimizations for enhanced functionality.
+Technologies Used
+Backend: Firebase 
+Frontend: Flutter, FlutterFlow for UI/UX design
+Authentication: Firebase Authentication
+Database: Firebase Firestore
+
+
 ## Getting Started
 
 FlutterFlow projects are built to run on the Flutter _stable_ release.
