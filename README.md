@@ -21,10 +21,10 @@ Scalability and Extensibility:
   - Designed for scalability to accommodate future growth.
   - Encourages additional features and optimizations for enhanced functionality.
 Technologies Used
-Backend: Firebase 
-Frontend: Flutter, FlutterFlow for UI/UX design
-Authentication: Firebase Authentication
-Database: Firebase Firestore
+Backend: Firebase, 
+Frontend: Flutter, FlutterFlow for UI/UX design,
+Authentication: Firebase Authentication,
+Database: Firebase Firestore.
 
 
 ## Getting Started
